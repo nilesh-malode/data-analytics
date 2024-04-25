@@ -1,0 +1,447 @@
+country,alpha_2_code,alpha_3_code,numeric_code,indicator,time_period,obs_value,sex,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Albania,AL,ALB,8,Out-of-school rate for children of primary school age (administrative data),2020,1.93244,Female,,%,,,,Total
+Albania,AL,ALB,8,Out-of-school rate for children of primary school age (administrative data),2020,5.54032,Male,,%,,,,Total
+Albania,AL,ALB,8,Out-of-school rate for children of primary school age (administrative data),2020,3.84193,Total,,%,,,,Total
+Algeria,DZ,DZA,12,Out-of-school rate for children of primary school age (administrative data),2020,0.177,Total,,%,,,,Total
+Anguilla,AI,AIA,660,Out-of-school rate for children of primary school age (administrative data),2019,0.77967,Total,,%,,,,Total
+Antigua and Barbuda,AG,ATG,28,Out-of-school rate for children of primary school age (administrative data),2019,1.87461,Female,,%,,,,Total
+Antigua and Barbuda,AG,ATG,28,Out-of-school rate for children of primary school age (administrative data),2019,1.58343,Male,,%,,,,Total
+Antigua and Barbuda,AG,ATG,28,Out-of-school rate for children of primary school age (administrative data),2019,1.72715,Total,,%,,,,Total
+Argentina,AR,ARG,32,Out-of-school rate for children of primary school age (administrative data),2019,0.42247,Total,,%,,,,Total
+Armenia,AM,ARM,51,Out-of-school rate for children of primary school age (administrative data),2020,10.40104,Female,,%,,,,Total
+Armenia,AM,ARM,51,Out-of-school rate for children of primary school age (administrative data),2020,10.54438,Male,,%,,,,Total
+Armenia,AM,ARM,51,Out-of-school rate for children of primary school age (administrative data),2020,10.47731,Total,,%,,,,Total
+Australia,AU,AUS,36,Out-of-school rate for children of primary school age (administrative data),2020,1.51921,Female,,%,,,,Total
+Australia,AU,AUS,36,Out-of-school rate for children of primary school age (administrative data),2020,1.39621,Male,,%,,,,Total
+Australia,AU,AUS,36,Out-of-school rate for children of primary school age (administrative data),2020,1.45611,Total,,%,,,,Total
+Austria,AT,AUT,40,Out-of-school rate for children of primary school age (administrative data),2016,0.11877,Female,,%,,,,Total
+Austria,AT,AUT,40,Out-of-school rate for children of primary school age (administrative data),2016,0.28884,Male,,%,,,,Total
+Austria,AT,AUT,40,Out-of-school rate for children of primary school age (administrative data),2019,0.05623,Total,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Out-of-school rate for children of primary school age (administrative data),2020,8.60678,Female,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Out-of-school rate for children of primary school age (administrative data),2020,12.06504,Male,,%,,,,Total
+Azerbaijan,AZ,AZE,31,Out-of-school rate for children of primary school age (administrative data),2020,10.46286,Total,,%,,,,Total
+Bahrain,BH,BHR,48,Out-of-school rate for children of primary school age (administrative data),2019,2.83481,Female,,%,,,,Total
+Bahrain,BH,BHR,48,Out-of-school rate for children of primary school age (administrative data),2019,1.86613,Male,,%,,,,Total
+Bahrain,BH,BHR,48,Out-of-school rate for children of primary school age (administrative data),2019,2.3445,Total,,%,,,,Total
+Barbados,BB,BRB,52,Out-of-school rate for children of primary school age (administrative data),2020,3.34526,Female,,%,,,,Total
+Barbados,BB,BRB,52,Out-of-school rate for children of primary school age (administrative data),2020,1.97899,Male,,%,,,,Total
+Barbados,BB,BRB,52,Out-of-school rate for children of primary school age (administrative data),2020,2.65161,Total,,%,,,,Total
+Belarus,BY,BLR,112,Out-of-school rate for children of primary school age (administrative data),2020,6.02934,Female,,%,,,,Total
+Belarus,BY,BLR,112,Out-of-school rate for children of primary school age (administrative data),2020,4.50552,Male,,%,,,,Total
+Belarus,BY,BLR,112,Out-of-school rate for children of primary school age (administrative data),2020,5.24426,Total,,%,,,,Total
+Belgium,BE,BEL,56,Out-of-school rate for children of primary school age (administrative data),2019,0.46626,Female,,%,,,,Total
+Belgium,BE,BEL,56,Out-of-school rate for children of primary school age (administrative data),2019,1.29645,Male,,%,,,,Total
+Belgium,BE,BEL,56,Out-of-school rate for children of primary school age (administrative data),2019,0.89266,Total,,%,,,,Total
+Belize,BZ,BLZ,84,Out-of-school rate for children of primary school age (administrative data),2014,1.64405,Female,,%,,,,Total
+Belize,BZ,BLZ,84,Out-of-school rate for children of primary school age (administrative data),2014,0.52959,Male,,%,,,,Total
+Belize,BZ,BLZ,84,Out-of-school rate for children of primary school age (administrative data),2020,0.15125,Total,,%,,,,Total
+Benin,BJ,BEN,204,Out-of-school rate for children of primary school age (administrative data),2020,9.6247,Female,,%,,,,Total
+Benin,BJ,BEN,204,Out-of-school rate for children of primary school age (administrative data),2020,3.90597,Male,,%,,,,Total
+Benin,BJ,BEN,204,Out-of-school rate for children of primary school age (administrative data),2020,6.72457,Total,,%,,,,Total
+Bhutan,BT,BTN,64,Out-of-school rate for children of primary school age (administrative data),2020,2.20498,Female,,%,,,,Total
+Bhutan,BT,BTN,64,Out-of-school rate for children of primary school age (administrative data),2020,5.05943,Male,,%,,,,Total
+Bhutan,BT,BTN,64,Out-of-school rate for children of primary school age (administrative data),2020,3.65422,Total,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Out-of-school rate for children of primary school age (administrative data),2020,4.69231,Female,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Out-of-school rate for children of primary school age (administrative data),2020,5.0999,Male,,%,,,,Total
+"Bolivia, Plurinational State of",BO,BOL,68,Out-of-school rate for children of primary school age (administrative data),2020,4.9005,Total,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Out-of-school rate for children of primary school age (administrative data),2018,13.34897,Female,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Out-of-school rate for children of primary school age (administrative data),2018,13.2238,Male,,%,,,,Total
+Bosnia and Herzegovina,BA,BIH,70,Out-of-school rate for children of primary school age (administrative data),2018,13.28474,Total,,%,,,,Total
+Botswana,BW,BWA,72,Out-of-school rate for children of primary school age (administrative data),2017,8.08053,Female,,%,,,,Total
+Botswana,BW,BWA,72,Out-of-school rate for children of primary school age (administrative data),2017,9.7893,Male,,%,,,,Total
+Botswana,BW,BWA,72,Out-of-school rate for children of primary school age (administrative data),2017,8.94308,Total,,%,,,,Total
+Brazil,BR,BRA,76,Out-of-school rate for children of primary school age (administrative data),2015,0.57631,Female,,%,,,,Total
+Brazil,BR,BRA,76,Out-of-school rate for children of primary school age (administrative data),2015,0.8555,Male,,%,,,,Total
+Brazil,BR,BRA,76,Out-of-school rate for children of primary school age (administrative data),2019,0.57306,Total,,%,,,,Total
+"Virgin Islands, British",VG,VGB,92,Out-of-school rate for children of primary school age (administrative data),2018,1.94647,Total,,%,,,,Total
+Brunei,BN,BRN,96,Out-of-school rate for children of primary school age (administrative data),2020,1.52253,Female,,%,,,,Total
+Brunei,BN,BRN,96,Out-of-school rate for children of primary school age (administrative data),2020,1.8298,Male,,%,,,,Total
+Brunei,BN,BRN,96,Out-of-school rate for children of primary school age (administrative data),2020,1.68117,Total,,%,,,,Total
+Bulgaria,BG,BGR,100,Out-of-school rate for children of primary school age (administrative data),2019,14.61375,Female,,%,,,,Total
+Bulgaria,BG,BGR,100,Out-of-school rate for children of primary school age (administrative data),2019,14.60503,Male,,%,,,,Total
+Bulgaria,BG,BGR,100,Out-of-school rate for children of primary school age (administrative data),2019,14.60927,Total,,%,,,,Total
+Burkina Faso,BF,BFA,854,Out-of-school rate for children of primary school age (administrative data),2020,24.55493,Female,,%,,,,Total
+Burkina Faso,BF,BFA,854,Out-of-school rate for children of primary school age (administrative data),2020,24.4555,Male,,%,,,,Total
+Burkina Faso,BF,BFA,854,Out-of-school rate for children of primary school age (administrative data),2020,24.50434,Total,,%,,,,Total
+Burundi,BI,BDI,108,Out-of-school rate for children of primary school age (administrative data),2021,8.42872,Female,,%,,,,Total
+Burundi,BI,BDI,108,Out-of-school rate for children of primary school age (administrative data),2021,11.77477,Male,,%,,,,Total
+Burundi,BI,BDI,108,Out-of-school rate for children of primary school age (administrative data),2021,10.11094,Total,,%,,,,Total
+Cape Verde,CV,CPV,132,Out-of-school rate for children of primary school age (administrative data),2019,8.22356,Female,,%,,,,Total
+Cape Verde,CV,CPV,132,Out-of-school rate for children of primary school age (administrative data),2019,7.2346,Male,,%,,,,Total
+Cape Verde,CV,CPV,132,Out-of-school rate for children of primary school age (administrative data),2019,7.72343,Total,,%,,,,Total
+Cambodia,KH,KHM,116,Out-of-school rate for children of primary school age (administrative data),2020,11.07261,Female,,%,,,,Total
+Cambodia,KH,KHM,116,Out-of-school rate for children of primary school age (administrative data),2020,10.63052,Male,,%,,,,Total
+Cambodia,KH,KHM,116,Out-of-school rate for children of primary school age (administrative data),2020,10.84626,Total,,%,,,,Total
+Cameroon,CM,CMR,120,Out-of-school rate for children of primary school age (administrative data),2019,12.72457,Female,,%,,,,Total
+Cameroon,CM,CMR,120,Out-of-school rate for children of primary school age (administrative data),2019,4.00376,Male,,%,,,,Total
+Cameroon,CM,CMR,120,Out-of-school rate for children of primary school age (administrative data),2019,8.32815,Total,,%,,,,Total
+Canada,CA,CAN,124,Out-of-school rate for children of primary school age (administrative data),2019,0.27903,Total,,%,,,,Total
+Chad,TD,TCD,148,Out-of-school rate for children of primary school age (administrative data),2019,35.04273,Female,,%,,,,Total
+Chad,TD,TCD,148,Out-of-school rate for children of primary school age (administrative data),2019,17.30957,Male,,%,,,,Total
+Chad,TD,TCD,148,Out-of-school rate for children of primary school age (administrative data),2019,26.15198,Total,,%,,,,Total
+Chile,CL,CHL,152,Out-of-school rate for children of primary school age (administrative data),2019,0.87884,Female,,%,,,,Total
+Chile,CL,CHL,152,Out-of-school rate for children of primary school age (administrative data),2019,0.0596,Male,,%,,,,Total
+Chile,CL,CHL,152,Out-of-school rate for children of primary school age (administrative data),2019,0.46204,Total,,%,,,,Total
+Colombia,CO,COL,170,Out-of-school rate for children of primary school age (administrative data),2020,0.54,Female,,%,,,,Total
+Colombia,CO,COL,170,Out-of-school rate for children of primary school age (administrative data),2020,1.84815,Male,,%,,,,Total
+Colombia,CO,COL,170,Out-of-school rate for children of primary school age (administrative data),2020,1.20878,Total,,%,,,,Total
+Comoros,KM,COM,174,Out-of-school rate for children of primary school age (administrative data),2018,18.17248,Female,,%,,,,Total
+Comoros,KM,COM,174,Out-of-school rate for children of primary school age (administrative data),2018,18.13717,Male,,%,,,,Total
+Comoros,KM,COM,174,Out-of-school rate for children of primary school age (administrative data),2018,18.15451,Total,,%,,,,Total
+Congo,CG,COG,178,Out-of-school rate for children of primary school age (administrative data),2018,16.32869,Female,,%,,,,Total
+Congo,CG,COG,178,Out-of-school rate for children of primary school age (administrative data),2018,14.94113,Male,,%,,,,Total
+Congo,CG,COG,178,Out-of-school rate for children of primary school age (administrative data),2018,15.62949,Total,,%,,,,Total
+Cook Islands,CK,COK,184,Out-of-school rate for children of primary school age (administrative data),2014,2.33593,Female,,%,,,,Total
+Cook Islands,CK,COK,184,Out-of-school rate for children of primary school age (administrative data),2014,1.64474,Male,,%,,,,Total
+Cook Islands,CK,COK,184,Out-of-school rate for children of primary school age (administrative data),2016,0.79725,Total,,%,,,,Total
+Costa Rica,CR,CRI,188,Out-of-school rate for children of primary school age (administrative data),2017,3.31332,Female,,%,,,,Total
+Costa Rica,CR,CRI,188,Out-of-school rate for children of primary school age (administrative data),2017,3.18637,Male,,%,,,,Total
+Costa Rica,CR,CRI,188,Out-of-school rate for children of primary school age (administrative data),2020,0.07377,Total,,%,,,,Total
+Croatia,HR,HRV,191,Out-of-school rate for children of primary school age (administrative data),2019,2.18771,Total,,%,,,,Total
+Cuba,CU,CUB,192,Out-of-school rate for children of primary school age (administrative data),2019,0.93172,Female,,%,,,,Total
+Cuba,CU,CUB,192,Out-of-school rate for children of primary school age (administrative data),2019,0.63967,Male,,%,,,,Total
+Cuba,CU,CUB,192,Out-of-school rate for children of primary school age (administrative data),2020,0.19751,Total,,%,,,,Total
+Cyprus,CY,CYP,196,Out-of-school rate for children of primary school age (administrative data),2018,0.8185,Female,,%,,,,Total
+Cyprus,CY,CYP,196,Out-of-school rate for children of primary school age (administrative data),2018,0.34225,Male,,%,,,,Total
+Cyprus,CY,CYP,196,Out-of-school rate for children of primary school age (administrative data),2019,0.50737,Total,,%,,,,Total
+Czech Republic,CZ,CZE,203,Out-of-school rate for children of primary school age (administrative data),2019,0.49345,Female,,%,,,,Total
+Czech Republic,CZ,CZE,203,Out-of-school rate for children of primary school age (administrative data),2019,1.21121,Male,,%,,,,Total
+Czech Republic,CZ,CZE,203,Out-of-school rate for children of primary school age (administrative data),2019,0.86192,Total,,%,,,,Total
+Ivory Coast,CI,CIV,384,Out-of-school rate for children of primary school age (administrative data),2020,7.01395,Female,,%,,,,Total
+Ivory Coast,CI,CIV,384,Out-of-school rate for children of primary school age (administrative data),2020,0.28267,Male,,%,,,,Total
+Ivory Coast,CI,CIV,384,Out-of-school rate for children of primary school age (administrative data),2021,3.336088,Total,,%,,,,Total
+Denmark,DK,DNK,208,Out-of-school rate for children of primary school age (administrative data),2019,0.42964,Female,,%,,,,Total
+Denmark,DK,DNK,208,Out-of-school rate for children of primary school age (administrative data),2019,0.92461,Male,,%,,,,Total
+Denmark,DK,DNK,208,Out-of-school rate for children of primary school age (administrative data),2019,0.68426,Total,,%,,,,Total
+Djibouti,DJ,DJI,262,Out-of-school rate for children of primary school age (administrative data),2021,36.09756,Female,,%,,,,Total
+Djibouti,DJ,DJI,262,Out-of-school rate for children of primary school age (administrative data),2021,31.00706,Male,,%,,,,Total
+Djibouti,DJ,DJI,262,Out-of-school rate for children of primary school age (administrative data),2021,33.48467,Total,,%,,,,Total
+Dominica,DM,DMA,212,Out-of-school rate for children of primary school age (administrative data),2020,0.77415,Female,,%,,,,Total
+Dominica,DM,DMA,212,Out-of-school rate for children of primary school age (administrative data),2020,1.00813,Male,,%,,,,Total
+Dominica,DM,DMA,212,Out-of-school rate for children of primary school age (administrative data),2020,0.89315,Total,,%,,,,Total
+Dominican Republic,DO,DOM,214,Out-of-school rate for children of primary school age (administrative data),2020,3.5809,Female,,%,,,,Total
+Dominican Republic,DO,DOM,214,Out-of-school rate for children of primary school age (administrative data),2020,4.61963,Male,,%,,,,Total
+Dominican Republic,DO,DOM,214,Out-of-school rate for children of primary school age (administrative data),2020,4.10988,Total,,%,,,,Total
+Ecuador,EC,ECU,218,Out-of-school rate for children of primary school age (administrative data),2020,1.37986,Total,,%,,,,Total
+Egypt,EG,EGY,818,Out-of-school rate for children of primary school age (administrative data),2019,0.72737,Total,,%,,,,Total
+El Salvador,SV,SLV,222,Out-of-school rate for children of primary school age (administrative data),2014,6.6392,Female,,%,,,,Total
+El Salvador,SV,SLV,222,Out-of-school rate for children of primary school age (administrative data),2014,7.03497,Male,,%,,,,Total
+El Salvador,SV,SLV,222,Out-of-school rate for children of primary school age (administrative data),2014,6.84121,Total,,%,,,,Total
+Equatorial Guinea,GQ,GNQ,226,Out-of-school rate for children of primary school age (administrative data),2015,54.81445,Female,,%,,,,Total
+Equatorial Guinea,GQ,GNQ,226,Out-of-school rate for children of primary school age (administrative data),2015,55.7771,Male,,%,,,,Total
+Equatorial Guinea,GQ,GNQ,226,Out-of-school rate for children of primary school age (administrative data),2015,55.30304,Total,,%,,,,Total
+Eritrea,ER,ERI,232,Out-of-school rate for children of primary school age (administrative data),2018,49.80647,Female,,%,,,,Total
+Eritrea,ER,ERI,232,Out-of-school rate for children of primary school age (administrative data),2018,44.99245,Male,,%,,,,Total
+Eritrea,ER,ERI,232,Out-of-school rate for children of primary school age (administrative data),2018,47.34818,Total,,%,,,,Total
+Estonia,EE,EST,233,Out-of-school rate for children of primary school age (administrative data),2019,2.10882,Female,,%,,,,Total
+Estonia,EE,EST,233,Out-of-school rate for children of primary school age (administrative data),2019,2.85387,Male,,%,,,,Total
+Estonia,EE,EST,233,Out-of-school rate for children of primary school age (administrative data),2019,2.49251,Total,,%,,,,Total
+Swaziland,SZ,SWZ,748,Out-of-school rate for children of primary school age (administrative data),2019,15.9,Female,,%,,,,Total
+Swaziland,SZ,SWZ,748,Out-of-school rate for children of primary school age (administrative data),2019,14.56613,Male,,%,,,,Total
+Swaziland,SZ,SWZ,748,Out-of-school rate for children of primary school age (administrative data),2019,15.22935,Total,,%,,,,Total
+Ethiopia,ET,ETH,231,Out-of-school rate for children of primary school age (administrative data),2020,16.84797,Female,,%,,,,Total
+Ethiopia,ET,ETH,231,Out-of-school rate for children of primary school age (administrative data),2020,8.82833,Male,,%,,,,Total
+Ethiopia,ET,ETH,231,Out-of-school rate for children of primary school age (administrative data),2020,12.79203,Total,,%,,,,Total
+Fiji,FJ,FJI,242,Out-of-school rate for children of primary school age (administrative data),2015,1.2056,Female,,%,,,,Total
+Fiji,FJ,FJI,242,Out-of-school rate for children of primary school age (administrative data),2015,0.57764,Male,,%,,,,Total
+Fiji,FJ,FJI,242,Out-of-school rate for children of primary school age (administrative data),2020,1.17826,Total,,%,,,,Total
+Finland,FI,FIN,246,Out-of-school rate for children of primary school age (administrative data),2019,1.55299,Female,,%,,,,Total
+Finland,FI,FIN,246,Out-of-school rate for children of primary school age (administrative data),2019,2.18141,Male,,%,,,,Total
+Finland,FI,FIN,246,Out-of-school rate for children of primary school age (administrative data),2019,1.87418,Total,,%,,,,Total
+France,FR,FRA,250,Out-of-school rate for children of primary school age (administrative data),2016,0.02556,Female,,%,,,,Total
+France,FR,FRA,250,Out-of-school rate for children of primary school age (administrative data),2016,0.30242,Male,,%,,,,Total
+France,FR,FRA,250,Out-of-school rate for children of primary school age (administrative data),2019,0.0054,Total,,%,,,,Total
+Gabon,GA,GAB,266,Out-of-school rate for children of primary school age (administrative data),2019,22.84137,Female,,%,,,,Total
+Gabon,GA,GAB,266,Out-of-school rate for children of primary school age (administrative data),2019,23.74649,Male,,%,,,,Total
+Gabon,GA,GAB,266,Out-of-school rate for children of primary school age (administrative data),2019,23.2981,Total,,%,,,,Total
+Gambia,GM,GMB,270,Out-of-school rate for children of primary school age (administrative data),2021,8.11258,Female,,%,,,,Total
+Gambia,GM,GMB,270,Out-of-school rate for children of primary school age (administrative data),2021,19.05032,Male,,%,,,,Total
+Gambia,GM,GMB,270,Out-of-school rate for children of primary school age (administrative data),2021,13.6324,Total,,%,,,,Total
+Georgia,GE,GEO,268,Out-of-school rate for children of primary school age (administrative data),2020,0.07433,Female,,%,,,,Total
+Georgia,GE,GEO,268,Out-of-school rate for children of primary school age (administrative data),2020,1.12433,Male,,%,,,,Total
+Georgia,GE,GEO,268,Out-of-school rate for children of primary school age (administrative data),2020,0.62309,Total,,%,,,,Total
+Germany,DE,DEU,276,Out-of-school rate for children of primary school age (administrative data),2019,0.3035,Female,,%,,,,Total
+Germany,DE,DEU,276,Out-of-school rate for children of primary school age (administrative data),2019,1.62742,Male,,%,,,,Total
+Germany,DE,DEU,276,Out-of-school rate for children of primary school age (administrative data),2019,0.98669,Total,,%,,,,Total
+Ghana,GH,GHA,288,Out-of-school rate for children of primary school age (administrative data),2020,5.07016,Female,,%,,,,Total
+Ghana,GH,GHA,288,Out-of-school rate for children of primary school age (administrative data),2020,6.86001,Male,,%,,,,Total
+Ghana,GH,GHA,288,Out-of-school rate for children of primary school age (administrative data),2020,5.9837,Total,,%,,,,Total
+Greece,GR,GRC,300,Out-of-school rate for children of primary school age (administrative data),2019,0.61721,Female,,%,,,,Total
+Greece,GR,GRC,300,Out-of-school rate for children of primary school age (administrative data),2019,1.15124,Male,,%,,,,Total
+Greece,GR,GRC,300,Out-of-school rate for children of primary school age (administrative data),2019,0.89269,Total,,%,,,,Total
+Grenada,GD,GRD,308,Out-of-school rate for children of primary school age (administrative data),2016,2.82159,Female,,%,,,,Total
+Grenada,GD,GRD,308,Out-of-school rate for children of primary school age (administrative data),2016,3.80146,Male,,%,,,,Total
+Grenada,GD,GRD,308,Out-of-school rate for children of primary school age (administrative data),2018,0.76442,Total,,%,,,,Total
+Guatemala,GT,GTM,320,Out-of-school rate for children of primary school age (administrative data),2020,10.02081,Female,,%,,,,Total
+Guatemala,GT,GTM,320,Out-of-school rate for children of primary school age (administrative data),2020,11.06562,Male,,%,,,,Total
+Guatemala,GT,GTM,320,Out-of-school rate for children of primary school age (administrative data),2020,10.55454,Total,,%,,,,Total
+Guinea,GN,GIN,324,Out-of-school rate for children of primary school age (administrative data),2020,21.34023,Female,,%,,,,Total
+Guinea,GN,GIN,324,Out-of-school rate for children of primary school age (administrative data),2020,7.67858,Male,,%,,,,Total
+Guinea,GN,GIN,324,Out-of-school rate for children of primary school age (administrative data),2020,14.46402,Total,,%,,,,Total
+Holy See (Vatican City State),VA,VAT,336,Out-of-school rate for children of primary school age (administrative data),2022,0,Female,,%,,,,Total
+Holy See (Vatican City State),VA,VAT,336,Out-of-school rate for children of primary school age (administrative data),2022,0,Male,,%,,,,Total
+Holy See (Vatican City State),VA,VAT,336,Out-of-school rate for children of primary school age (administrative data),2022,0,Total,,%,,,,Total
+Honduras,HN,HND,340,Out-of-school rate for children of primary school age (administrative data),2018,14.86876,Female,,%,,,,Total
+Honduras,HN,HND,340,Out-of-school rate for children of primary school age (administrative data),2018,16.49416,Male,,%,,,,Total
+Honduras,HN,HND,340,Out-of-school rate for children of primary school age (administrative data),2018,15.69807,Total,,%,,,,Total
+Hungary,HU,HUN,348,Out-of-school rate for children of primary school age (administrative data),2019,5.67648,Female,,%,,,,Total
+Hungary,HU,HUN,348,Out-of-school rate for children of primary school age (administrative data),2019,5.26811,Male,,%,,,,Total
+Hungary,HU,HUN,348,Out-of-school rate for children of primary school age (administrative data),2019,5.46731,Total,,%,,,,Total
+Iceland,IS,ISL,352,Out-of-school rate for children of primary school age (administrative data),2016,0.54309,Female,,%,,,,Total
+Iceland,IS,ISL,352,Out-of-school rate for children of primary school age (administrative data),2016,0.37367,Male,,%,,,,Total
+Iceland,IS,ISL,352,Out-of-school rate for children of primary school age (administrative data),2019,0.20488,Total,,%,,,,Total
+India,IN,IND,356,Out-of-school rate for children of primary school age (administrative data),2020,4.20897,Female,,%,,,,Total
+India,IN,IND,356,Out-of-school rate for children of primary school age (administrative data),2020,6.42847,Male,,%,,,,Total
+India,IN,IND,356,Out-of-school rate for children of primary school age (administrative data),2020,5.37329,Total,,%,,,,Total
+Indonesia,ID,IDN,360,Out-of-school rate for children of primary school age (administrative data),2018,7.98367,Female,,%,,,,Total
+Indonesia,ID,IDN,360,Out-of-school rate for children of primary school age (administrative data),2018,3.39134,Male,,%,,,,Total
+Indonesia,ID,IDN,360,Out-of-school rate for children of primary school age (administrative data),2018,5.62332,Total,,%,,,,Total
+"Iran, Islamic Republic of",IR,IRN,364,Out-of-school rate for children of primary school age (administrative data),2020,0.14107,Total,,%,,,,Total
+Ireland,IE,IRL,372,Out-of-school rate for children of primary school age (administrative data),2019,0.13723,Total,,%,,,,Total
+Israel,IL,ISR,376,Out-of-school rate for children of primary school age (administrative data),2019,0.49926,Total,,%,,,,Total
+Italy,IT,ITA,380,Out-of-school rate for children of primary school age (administrative data),2019,3.65387,Female,,%,,,,Total
+Italy,IT,ITA,380,Out-of-school rate for children of primary school age (administrative data),2019,3.35267,Male,,%,,,,Total
+Italy,IT,ITA,380,Out-of-school rate for children of primary school age (administrative data),2019,3.49892,Total,,%,,,,Total
+Jamaica,JM,JAM,388,Out-of-school rate for children of primary school age (administrative data),2019,29.01788,Female,,%,,,,Total
+Jamaica,JM,JAM,388,Out-of-school rate for children of primary school age (administrative data),2019,37.44215,Male,,%,,,,Total
+Jamaica,JM,JAM,388,Out-of-school rate for children of primary school age (administrative data),2019,33.29653,Total,,%,,,,Total
+Jordan,JO,JOR,400,Out-of-school rate for children of primary school age (administrative data),2020,20.57892,Female,,%,,,,Total
+Jordan,JO,JOR,400,Out-of-school rate for children of primary school age (administrative data),2020,19.60525,Male,,%,,,,Total
+Jordan,JO,JOR,400,Out-of-school rate for children of primary school age (administrative data),2020,20.08473,Total,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Out-of-school rate for children of primary school age (administrative data),2020,9.30243,Female,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Out-of-school rate for children of primary school age (administrative data),2020,9.90636,Male,,%,,,,Total
+Kazakhstan,KZ,KAZ,398,Out-of-school rate for children of primary school age (administrative data),2020,9.61296,Total,,%,,,,Total
+Kiribati,KI,KIR,296,Out-of-school rate for children of primary school age (administrative data),2020,3.2543,Total,,%,,,,Total
+Kuwait,KW,KWT,414,Out-of-school rate for children of primary school age (administrative data),2016,0.88499,Female,,%,,,,Total
+Kuwait,KW,KWT,414,Out-of-school rate for children of primary school age (administrative data),2016,4.37744,Male,,%,,,,Total
+Kuwait,KW,KWT,414,Out-of-school rate for children of primary school age (administrative data),2016,2.70151,Total,,%,,,,Total
+Kyrgyzstan,KG,KGZ,417,Out-of-school rate for children of primary school age (administrative data),2020,0.11654,Total,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Out-of-school rate for children of primary school age (administrative data),2020,8.99216,Female,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Out-of-school rate for children of primary school age (administrative data),2020,7.51424,Male,,%,,,,Total
+Lao People's Democratic Republic,LA,LAO,418,Out-of-school rate for children of primary school age (administrative data),2020,8.23966,Total,,%,,,,Total
+Latvia,LV,LVA,428,Out-of-school rate for children of primary school age (administrative data),2019,0.80117,Female,,%,,,,Total
+Latvia,LV,LVA,428,Out-of-school rate for children of primary school age (administrative data),2019,1.53329,Male,,%,,,,Total
+Latvia,LV,LVA,428,Out-of-school rate for children of primary school age (administrative data),2019,1.17626,Total,,%,,,,Total
+Lesotho,LS,LSO,426,Out-of-school rate for children of primary school age (administrative data),2018,5.97653,Female,,%,,,,Total
+Lesotho,LS,LSO,426,Out-of-school rate for children of primary school age (administrative data),2018,7.66526,Male,,%,,,,Total
+Lesotho,LS,LSO,426,Out-of-school rate for children of primary school age (administrative data),2018,6.81804,Total,,%,,,,Total
+Liberia,LR,LBR,430,Out-of-school rate for children of primary school age (administrative data),2017,21.0684,Female,,%,,,,Total
+Liberia,LR,LBR,430,Out-of-school rate for children of primary school age (administrative data),2017,21.63903,Male,,%,,,,Total
+Liberia,LR,LBR,430,Out-of-school rate for children of primary school age (administrative data),2017,21.35893,Total,,%,,,,Total
+Liechtenstein,LI,LIE,438,Out-of-school rate for children of primary school age (administrative data),2014,1.82599,Female,,%,,,,Total
+Liechtenstein,LI,LIE,438,Out-of-school rate for children of primary school age (administrative data),2014,2.8481,Male,,%,,,,Total
+Liechtenstein,LI,LIE,438,Out-of-school rate for children of primary school age (administrative data),2019,0.07966,Total,,%,,,,Total
+Lithuania,LT,LTU,440,Out-of-school rate for children of primary school age (administrative data),2019,0.10193,Total,,%,,,,Total
+Luxembourg,LU,LUX,442,Out-of-school rate for children of primary school age (administrative data),2015,0.99038,Female,,%,,,,Total
+Luxembourg,LU,LUX,442,Out-of-school rate for children of primary school age (administrative data),2015,1.12227,Male,,%,,,,Total
+Luxembourg,LU,LUX,442,Out-of-school rate for children of primary school age (administrative data),2019,0.62121,Total,,%,,,,Total
+Madagascar,MG,MDG,450,Out-of-school rate for children of primary school age (administrative data),2019,2.32186,Total,,%,,,,Total
+Malaysia,MY,MYS,458,Out-of-school rate for children of primary school age (administrative data),2020,1.36626,Female,,%,,,,Total
+Malaysia,MY,MYS,458,Out-of-school rate for children of primary school age (administrative data),2020,1.82884,Male,,%,,,,Total
+Malaysia,MY,MYS,458,Out-of-school rate for children of primary school age (administrative data),2020,1.60434,Total,,%,,,,Total
+Maldives,MV,MDV,462,Out-of-school rate for children of primary school age (administrative data),2019,0.72512,Female,,%,,,,Total
+Maldives,MV,MDV,462,Out-of-school rate for children of primary school age (administrative data),2019,3.16708,Male,,%,,,,Total
+Maldives,MV,MDV,462,Out-of-school rate for children of primary school age (administrative data),2019,2.00353,Total,,%,,,,Total
+Mali,ML,MLI,466,Out-of-school rate for children of primary school age (administrative data),2018,44.16784,Female,,%,,,,Total
+Mali,ML,MLI,466,Out-of-school rate for children of primary school age (administrative data),2018,37.91068,Male,,%,,,,Total
+Mali,ML,MLI,466,Out-of-school rate for children of primary school age (administrative data),2018,40.98841,Total,,%,,,,Total
+Malta,MT,MLT,470,Out-of-school rate for children of primary school age (administrative data),2017,0.23263,Total,,%,,,,Total
+Marshall Islands,MH,MHL,584,Out-of-school rate for children of primary school age (administrative data),2020,30.23203,Female,,%,,,,Total
+Marshall Islands,MH,MHL,584,Out-of-school rate for children of primary school age (administrative data),2020,29.33101,Male,,%,,,,Total
+Marshall Islands,MH,MHL,584,Out-of-school rate for children of primary school age (administrative data),2020,29.77184,Total,,%,,,,Total
+Mauritania,MR,MRT,478,Out-of-school rate for children of primary school age (administrative data),2019,21.24662,Female,,%,,,,Total
+Mauritania,MR,MRT,478,Out-of-school rate for children of primary school age (administrative data),2019,24.98444,Male,,%,,,,Total
+Mauritania,MR,MRT,478,Out-of-school rate for children of primary school age (administrative data),2019,23.1424,Total,,%,,,,Total
+Mauritius,MU,MUS,480,Out-of-school rate for children of primary school age (administrative data),2021,0.33244,Total,,%,,,,Total
+Mexico,MX,MEX,484,Out-of-school rate for children of primary school age (administrative data),2019,0.79265,Total,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Out-of-school rate for children of primary school age (administrative data),2020,16.01495,Female,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Out-of-school rate for children of primary school age (administrative data),2020,17.31298,Male,,%,,,,Total
+"Micronesia, Federated States of",FM,FSM,583,Out-of-school rate for children of primary school age (administrative data),2020,16.67838,Total,,%,,,,Total
+Mongolia,MN,MNG,496,Out-of-school rate for children of primary school age (administrative data),2015,3.25075,Female,,%,,,,Total
+Mongolia,MN,MNG,496,Out-of-school rate for children of primary school age (administrative data),2015,1.87574,Male,,%,,,,Total
+Mongolia,MN,MNG,496,Out-of-school rate for children of primary school age (administrative data),2019,0.61612,Total,,%,,,,Total
+Montenegro,ME,MNE,499,Out-of-school rate for children of primary school age (administrative data),2017,2.69724,Female,,%,,,,Total
+Montenegro,ME,MNE,499,Out-of-school rate for children of primary school age (administrative data),2017,2.85189,Male,,%,,,,Total
+Montenegro,ME,MNE,499,Out-of-school rate for children of primary school age (administrative data),2020,0.06794,Total,,%,,,,Total
+Montserrat,MS,MSR,500,Out-of-school rate for children of primary school age (administrative data),2014,15.17857,Female,,%,,,,Total
+Montserrat,MS,MSR,500,Out-of-school rate for children of primary school age (administrative data),2014,14.52282,Male,,%,,,,Total
+Montserrat,MS,MSR,500,Out-of-school rate for children of primary school age (administrative data),2016,2.74174,Total,,%,,,,Total
+Morocco,MA,MAR,504,Out-of-school rate for children of primary school age (administrative data),2017,2.55929,Female,,%,,,,Total
+Morocco,MA,MAR,504,Out-of-school rate for children of primary school age (administrative data),2017,2.25404,Male,,%,,,,Total
+Morocco,MA,MAR,504,Out-of-school rate for children of primary school age (administrative data),2020,0.44712,Total,,%,,,,Total
+Mozambique,MZ,MOZ,508,Out-of-school rate for children of primary school age (administrative data),2019,3.72295,Female,,%,,,,Total
+Mozambique,MZ,MOZ,508,Out-of-school rate for children of primary school age (administrative data),2019,1.08763,Male,,%,,,,Total
+Mozambique,MZ,MOZ,508,Out-of-school rate for children of primary school age (administrative data),2020,0.86715,Total,,%,,,,Total
+Burma,MM,MMR,104,Out-of-school rate for children of primary school age (administrative data),2018,1.9472,Total,,%,,,,Total
+Namibia,,NAM,516,Out-of-school rate for children of primary school age (administrative data),2019,1.60896,Total,,%,,,,Total
+Nauru,NR,NRU,520,Out-of-school rate for children of primary school age (administrative data),2020,2.87206,Female,,%,,,,Total
+Nauru,NR,NRU,520,Out-of-school rate for children of primary school age (administrative data),2020,5.79897,Male,,%,,,,Total
+Nauru,NR,NRU,520,Out-of-school rate for children of primary school age (administrative data),2020,4.34501,Total,,%,,,,Total
+Nepal,NP,NPL,524,Out-of-school rate for children of primary school age (administrative data),2017,3.52287,Total,,%,,,,Total
+Netherlands,NL,NLD,528,Out-of-school rate for children of primary school age (administrative data),2017,0.53208,Female,,%,,,,Total
+Netherlands,NL,NLD,528,Out-of-school rate for children of primary school age (administrative data),2017,1.38737,Male,,%,,,,Total
+Netherlands,NL,NLD,528,Out-of-school rate for children of primary school age (administrative data),2019,0.4073,Total,,%,,,,Total
+New Zealand,NZ,NZL,554,Out-of-school rate for children of primary school age (administrative data),2016,0.57012,Female,,%,,,,Total
+New Zealand,NZ,NZL,554,Out-of-school rate for children of primary school age (administrative data),2016,1.32287,Male,,%,,,,Total
+New Zealand,NZ,NZL,554,Out-of-school rate for children of primary school age (administrative data),2019,0.00005,Total,,%,,,,Total
+Niger,NE,NER,562,Out-of-school rate for children of primary school age (administrative data),2019,44.90653,Female,,%,,,,Total
+Niger,NE,NER,562,Out-of-school rate for children of primary school age (administrative data),2019,37.26941,Male,,%,,,,Total
+Niger,NE,NER,562,Out-of-school rate for children of primary school age (administrative data),2019,41.02536,Total,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Out-of-school rate for children of primary school age (administrative data),2018,0.79233,Female,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Out-of-school rate for children of primary school age (administrative data),2018,0.61029,Male,,%,,,,Total
+"Macedonia, the former Yugoslav Republic of",MK,MKD,807,Out-of-school rate for children of primary school age (administrative data),2018,0.6982,Total,,%,,,,Total
+Norway,NO,NOR,578,Out-of-school rate for children of primary school age (administrative data),2014,0.11974,Female,,%,,,,Total
+Norway,NO,NOR,578,Out-of-school rate for children of primary school age (administrative data),2014,0.0459,Male,,%,,,,Total
+Norway,NO,NOR,578,Out-of-school rate for children of primary school age (administrative data),2019,0.00896,Total,,%,,,,Total
+Oman,OM,OMN,512,Out-of-school rate for children of primary school age (administrative data),2020,1.62877,Total,,%,,,,Total
+Palau,PW,PLW,585,Out-of-school rate for children of primary school age (administrative data),2020,3.93049,Total,,%,,,,Total
+Panama,PA,PAN,591,Out-of-school rate for children of primary school age (administrative data),2020,10.61598,Female,,%,,,,Total
+Panama,PA,PAN,591,Out-of-school rate for children of primary school age (administrative data),2020,10.40943,Male,,%,,,,Total
+Panama,PA,PAN,591,Out-of-school rate for children of primary school age (administrative data),2020,10.51048,Total,,%,,,,Total
+Papua New Guinea,PG,PNG,598,Out-of-school rate for children of primary school age (administrative data),2016,10.37539,Female,,%,,,,Total
+Papua New Guinea,PG,PNG,598,Out-of-school rate for children of primary school age (administrative data),2016,4.47794,Male,,%,,,,Total
+Papua New Guinea,PG,PNG,598,Out-of-school rate for children of primary school age (administrative data),2016,7.33083,Total,,%,,,,Total
+Peru,PE,PER,604,Out-of-school rate for children of primary school age (administrative data),2018,1.41641,Total,,%,,,,Total
+Philippines,PH,PHL,608,Out-of-school rate for children of primary school age (administrative data),2020,3.90376,Female,,%,,,,Total
+Philippines,PH,PHL,608,Out-of-school rate for children of primary school age (administrative data),2020,3.23501,Male,,%,,,,Total
+Philippines,PH,PHL,608,Out-of-school rate for children of primary school age (administrative data),2020,3.56169,Total,,%,,,,Total
+Poland,PL,POL,616,Out-of-school rate for children of primary school age (administrative data),2019,0.94869,Female,,%,,,,Total
+Poland,PL,POL,616,Out-of-school rate for children of primary school age (administrative data),2019,1.32671,Male,,%,,,,Total
+Poland,PL,POL,616,Out-of-school rate for children of primary school age (administrative data),2019,1.1425,Total,,%,,,,Total
+Portugal,PT,PRT,620,Out-of-school rate for children of primary school age (administrative data),2017,1.19776,Female,,%,,,,Total
+Portugal,PT,PRT,620,Out-of-school rate for children of primary school age (administrative data),2017,0.06078,Male,,%,,,,Total
+Portugal,PT,PRT,620,Out-of-school rate for children of primary school age (administrative data),2019,0.35709,Total,,%,,,,Total
+Qatar,QA,QAT,634,Out-of-school rate for children of primary school age (administrative data),2019,0.34761,Female,,%,,,,Total
+Qatar,QA,QAT,634,Out-of-school rate for children of primary school age (administrative data),2019,3.38704,Male,,%,,,,Total
+Qatar,QA,QAT,634,Out-of-school rate for children of primary school age (administrative data),2019,1.91902,Total,,%,,,,Total
+South Korea,KR,KOR,410,Out-of-school rate for children of primary school age (administrative data),2018,0.94547,Female,,%,,,,Total
+South Korea,KR,KOR,410,Out-of-school rate for children of primary school age (administrative data),2018,0.90376,Male,,%,,,,Total
+South Korea,KR,KOR,410,Out-of-school rate for children of primary school age (administrative data),2019,0.00993,Total,,%,,,,Total
+"Moldova, Republic of",MD,MDA,498,Out-of-school rate for children of primary school age (administrative data),2020,0.79093,Total,,%,,,,Total
+Romania,RO,ROU,642,Out-of-school rate for children of primary school age (administrative data),2019,12.76272,Female,,%,,,,Total
+Romania,RO,ROU,642,Out-of-school rate for children of primary school age (administrative data),2019,12.60757,Male,,%,,,,Total
+Romania,RO,ROU,642,Out-of-school rate for children of primary school age (administrative data),2019,12.68297,Total,,%,,,,Total
+Russia,RU,RUS,643,Out-of-school rate for children of primary school age (administrative data),2016,0.20568,Female,,%,,,,Total
+Russia,RU,RUS,643,Out-of-school rate for children of primary school age (administrative data),2016,0.96317,Male,,%,,,,Total
+Russia,RU,RUS,643,Out-of-school rate for children of primary school age (administrative data),2019,0.07131,Total,,%,,,,Total
+Rwanda,RW,RWA,646,Out-of-school rate for children of primary school age (administrative data),2019,6.19648,Female,,%,,,,Total
+Rwanda,RW,RWA,646,Out-of-school rate for children of primary school age (administrative data),2019,6.48784,Male,,%,,,,Total
+Rwanda,RW,RWA,646,Out-of-school rate for children of primary school age (administrative data),2019,6.34215,Total,,%,,,,Total
+Saint Kitts and Nevis,KN,KNA,659,Out-of-school rate for children of primary school age (administrative data),2016,1.0811,Total,,%,,,,Total
+Saint Lucia,LC,LCA,662,Out-of-school rate for children of primary school age (administrative data),2020,0.58247,Female,,%,,,,Total
+Saint Lucia,LC,LCA,662,Out-of-school rate for children of primary school age (administrative data),2020,5.83989,Male,,%,,,,Total
+Saint Lucia,LC,LCA,662,Out-of-school rate for children of primary school age (administrative data),2020,3.24603,Total,,%,,,,Total
+Saint Vincent and the Grenadines,VC,VCT,670,Out-of-school rate for children of primary school age (administrative data),2019,0.36232,Total,,%,,,,Total
+Samoa,WS,WSM,882,Out-of-school rate for children of primary school age (administrative data),2018,1.28989,Total,,%,,,,Total
+San Marino,SM,SMR,674,Out-of-school rate for children of primary school age (administrative data),2020,5.07426,Female,,%,,,,Total
+San Marino,SM,SMR,674,Out-of-school rate for children of primary school age (administrative data),2020,2.45041,Male,,%,,,,Total
+San Marino,SM,SMR,674,Out-of-school rate for children of primary school age (administrative data),2020,3.72372,Total,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Out-of-school rate for children of primary school age (administrative data),2017,6.01822,Female,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Out-of-school rate for children of primary school age (administrative data),2017,6.04768,Male,,%,,,,Total
+Sao Tome and Principe,ST,STP,678,Out-of-school rate for children of primary school age (administrative data),2017,6.0331,Total,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Out-of-school rate for children of primary school age (administrative data),2020,4.96755,Female,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Out-of-school rate for children of primary school age (administrative data),2020,5.37743,Male,,%,,,,Total
+Saudi Arabia,SA,SAU,682,Out-of-school rate for children of primary school age (administrative data),2020,5.17592,Total,,%,,,,Total
+Senegal,SN,SEN,686,Out-of-school rate for children of primary school age (administrative data),2020,19.49477,Female,,%,,,,Total
+Senegal,SN,SEN,686,Out-of-school rate for children of primary school age (administrative data),2020,29.66561,Male,,%,,,,Total
+Senegal,SN,SEN,686,Out-of-school rate for children of primary school age (administrative data),2020,24.64498,Total,,%,,,,Total
+Serbia,RS,SRB,688,Out-of-school rate for children of primary school age (administrative data),2020,2.914,Female,,%,,,,Total
+Serbia,RS,SRB,688,Out-of-school rate for children of primary school age (administrative data),2020,2.87314,Male,,%,,,,Total
+Serbia,RS,SRB,688,Out-of-school rate for children of primary school age (administrative data),2020,2.89295,Total,,%,,,,Total
+Seychelles,SC,SYC,690,Out-of-school rate for children of primary school age (administrative data),2019,14.12044,Female,,%,,,,Total
+Seychelles,SC,SYC,690,Out-of-school rate for children of primary school age (administrative data),2019,2.32481,Male,,%,,,,Total
+Seychelles,SC,SYC,690,Out-of-school rate for children of primary school age (administrative data),2020,1.43445,Total,,%,,,,Total
+Sierra Leone,SL,SLE,694,Out-of-school rate for children of primary school age (administrative data),2015,1.5445,Female,,%,,,,Total
+Sierra Leone,SL,SLE,694,Out-of-school rate for children of primary school age (administrative data),2015,1.74216,Male,,%,,,,Total
+Sierra Leone,SL,SLE,694,Out-of-school rate for children of primary school age (administrative data),2016,0.511,Total,,%,,,,Total
+Singapore,SG,SGP,702,Out-of-school rate for children of primary school age (administrative data),2018,0.1318,Female,,%,,,,Total
+Singapore,SG,SGP,702,Out-of-school rate for children of primary school age (administrative data),2018,0.27363,Male,,%,,,,Total
+Singapore,SG,SGP,702,Out-of-school rate for children of primary school age (administrative data),2019,0.10108,Total,,%,,,,Total
+Slovakia,SK,SVK,703,Out-of-school rate for children of primary school age (administrative data),2019,3.30093,Female,,%,,,,Total
+Slovakia,SK,SVK,703,Out-of-school rate for children of primary school age (administrative data),2019,3.27669,Male,,%,,,,Total
+Slovakia,SK,SVK,703,Out-of-school rate for children of primary school age (administrative data),2019,3.28853,Total,,%,,,,Total
+Slovenia,SI,SVN,705,Out-of-school rate for children of primary school age (administrative data),2014,0.38165,Female,,%,,,,Total
+Slovenia,SI,SVN,705,Out-of-school rate for children of primary school age (administrative data),2014,1.19004,Male,,%,,,,Total
+Slovenia,SI,SVN,705,Out-of-school rate for children of primary school age (administrative data),2019,0.10858,Total,,%,,,,Total
+Solomon Islands,SB,SLB,90,Out-of-school rate for children of primary school age (administrative data),2019,4.12852,Female,,%,,,,Total
+Solomon Islands,SB,SLB,90,Out-of-school rate for children of primary school age (administrative data),2019,9.00979,Male,,%,,,,Total
+Solomon Islands,SB,SLB,90,Out-of-school rate for children of primary school age (administrative data),2019,6.64771,Total,,%,,,,Total
+South Africa,ZA,ZAF,710,Out-of-school rate for children of primary school age (administrative data),2019,9.80954,Female,,%,,,,Total
+South Africa,ZA,ZAF,710,Out-of-school rate for children of primary school age (administrative data),2019,11.74443,Male,,%,,,,Total
+South Africa,ZA,ZAF,710,Out-of-school rate for children of primary school age (administrative data),2019,10.78704,Total,,%,,,,Total
+South Sudan,SS,SSD,728,Out-of-school rate for children of primary school age (administrative data),2015,67.2605,Female,,%,,,,Total
+South Sudan,SS,SSD,728,Out-of-school rate for children of primary school age (administrative data),2015,57.57169,Male,,%,,,,Total
+South Sudan,SS,SSD,728,Out-of-school rate for children of primary school age (administrative data),2015,62.35948,Total,,%,,,,Total
+Spain,ES,ESP,724,Out-of-school rate for children of primary school age (administrative data),2019,2.58401,Female,,%,,,,Total
+Spain,ES,ESP,724,Out-of-school rate for children of primary school age (administrative data),2019,3.00268,Male,,%,,,,Total
+Spain,ES,ESP,724,Out-of-school rate for children of primary school age (administrative data),2019,2.80019,Total,,%,,,,Total
+Sri Lanka,LK,LKA,144,Out-of-school rate for children of primary school age (administrative data),2014,3.47033,Female,,%,,,,Total
+Sri Lanka,LK,LKA,144,Out-of-school rate for children of primary school age (administrative data),2014,1.69921,Male,,%,,,,Total
+Sri Lanka,LK,LKA,144,Out-of-school rate for children of primary school age (administrative data),2018,0.53962,Total,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Out-of-school rate for children of primary school age (administrative data),2020,4.85802,Female,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Out-of-school rate for children of primary school age (administrative data),2020,4.57118,Male,,%,,,,Total
+"Palestinian Territory, Occupied",PS,PSE,275,Out-of-school rate for children of primary school age (administrative data),2020,4.7114,Total,,%,,,,Total
+Sudan,SD,SDN,736,Out-of-school rate for children of primary school age (administrative data),2018,35.27231,Female,,%,,,,Total
+Sudan,SD,SDN,736,Out-of-school rate for children of primary school age (administrative data),2018,30.52712,Male,,%,,,,Total
+Sudan,SD,SDN,736,Out-of-school rate for children of primary school age (administrative data),2018,32.8676,Total,,%,,,,Total
+Suriname,SR,SUR,740,Out-of-school rate for children of primary school age (administrative data),2020,10.16859,Female,,%,,,,Total
+Suriname,SR,SUR,740,Out-of-school rate for children of primary school age (administrative data),2020,13.25955,Male,,%,,,,Total
+Suriname,SR,SUR,740,Out-of-school rate for children of primary school age (administrative data),2020,11.7695,Total,,%,,,,Total
+Sweden,SE,SWE,752,Out-of-school rate for children of primary school age (administrative data),2019,0.12493,Total,,%,,,,Total
+Switzerland,CH,CHE,756,Out-of-school rate for children of primary school age (administrative data),2019,0.08485,Total,,%,,,,Total
+Tajikistan,TJ,TJK,762,Out-of-school rate for children of primary school age (administrative data),2016,2.48817,Female,,%,,,,Total
+Tajikistan,TJ,TJK,762,Out-of-school rate for children of primary school age (administrative data),2016,1.25099,Male,,%,,,,Total
+Tajikistan,TJ,TJK,762,Out-of-school rate for children of primary school age (administrative data),2017,0.54687,Total,,%,,,,Total
+Timor-Leste,TL,TLS,626,Out-of-school rate for children of primary school age (administrative data),2019,3.02567,Female,,%,,,,Total
+Timor-Leste,TL,TLS,626,Out-of-school rate for children of primary school age (administrative data),2019,6.71849,Male,,%,,,,Total
+Timor-Leste,TL,TLS,626,Out-of-school rate for children of primary school age (administrative data),2019,4.9043,Total,,%,,,,Total
+Togo,TG,TGO,768,Out-of-school rate for children of primary school age (administrative data),2019,4.03906,Female,,%,,,,Total
+Togo,TG,TGO,768,Out-of-school rate for children of primary school age (administrative data),2019,2.2545,Male,,%,,,,Total
+Togo,TG,TGO,768,Out-of-school rate for children of primary school age (administrative data),2020,1.21733,Total,,%,,,,Total
+Tonga,TO,TON,776,Out-of-school rate for children of primary school age (administrative data),2020,0.63236,Total,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Out-of-school rate for children of primary school age (administrative data),2017,8.64353,Female,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Out-of-school rate for children of primary school age (administrative data),2017,9.46924,Male,,%,,,,Total
+Turks and Caicos Islands,TC,TCA,796,Out-of-school rate for children of primary school age (administrative data),2018,13.21677,Total,,%,,,,Total
+Tuvalu,TV,TUV,798,Out-of-school rate for children of primary school age (administrative data),2020,16.36126,Female,,%,,,,Total
+Tuvalu,TV,TUV,798,Out-of-school rate for children of primary school age (administrative data),2020,18.43088,Male,,%,,,,Total
+Tuvalu,TV,TUV,798,Out-of-school rate for children of primary school age (administrative data),2020,17.42183,Total,,%,,,,Total
+Turkey,TR,TUR,792,Out-of-school rate for children of primary school age (administrative data),2019,5.02673,Female,,%,,,,Total
+Turkey,TR,TUR,792,Out-of-school rate for children of primary school age (administrative data),2019,4.54793,Male,,%,,,,Total
+Turkey,TR,TUR,792,Out-of-school rate for children of primary school age (administrative data),2019,4.78203,Total,,%,,,,Total
+Uganda,UG,UGA,800,Out-of-school rate for children of primary school age (administrative data),2017,12.21721,Female,,%,,,,Total
+Uganda,UG,UGA,800,Out-of-school rate for children of primary school age (administrative data),2017,15.56616,Male,,%,,,,Total
+Uganda,UG,UGA,800,Out-of-school rate for children of primary school age (administrative data),2017,13.90533,Total,,%,,,,Total
+Ukraine,UA,UKR,804,Out-of-school rate for children of primary school age (administrative data),2014,7.0116,Female,,%,,,,Total
+Ukraine,UA,UKR,804,Out-of-school rate for children of primary school age (administrative data),2014,8.94796,Male,,%,,,,Total
+Ukraine,UA,UKR,804,Out-of-school rate for children of primary school age (administrative data),2014,8.00895,Total,,%,,,,Total
+United Arab Emirates,AE,ARE,784,Out-of-school rate for children of primary school age (administrative data),2020,0.23628,Total,,%,,,,Total
+United Kingdom,GB,GBR,826,Out-of-school rate for children of primary school age (administrative data),2019,1.26062,Female,,%,,,,Total
+United Kingdom,GB,GBR,826,Out-of-school rate for children of primary school age (administrative data),2019,1.01352,Male,,%,,,,Total
+United Kingdom,GB,GBR,826,Out-of-school rate for children of primary school age (administrative data),2019,1.13423,Total,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Out-of-school rate for children of primary school age (administrative data),2020,14.51359,Female,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Out-of-school rate for children of primary school age (administrative data),2020,17.60916,Male,,%,,,,Total
+"Tanzania, United Republic of",TZ,TZA,834,Out-of-school rate for children of primary school age (administrative data),2020,16.07893,Total,,%,,,,Total
+United States,US,USA,840,Out-of-school rate for children of primary school age (administrative data),2019,0.84899,Female,,%,,,,Total
+United States,US,USA,840,Out-of-school rate for children of primary school age (administrative data),2019,0.98131,Male,,%,,,,Total
+United States,US,USA,840,Out-of-school rate for children of primary school age (administrative data),2019,0.91657,Total,,%,,,,Total
+Uruguay,UY,URY,858,Out-of-school rate for children of primary school age (administrative data),2019,0.10794,Female,,%,,,,Total
+Uruguay,UY,URY,858,Out-of-school rate for children of primary school age (administrative data),2019,1.00179,Male,,%,,,,Total
+Uruguay,UY,URY,858,Out-of-school rate for children of primary school age (administrative data),2019,0.56478,Total,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Out-of-school rate for children of primary school age (administrative data),2014,1.81819,Female,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Out-of-school rate for children of primary school age (administrative data),2014,0.24092,Male,,%,,,,Total
+Uzbekistan,UZ,UZB,860,Out-of-school rate for children of primary school age (administrative data),2020,0.93533,Total,,%,,,,Total
+Vanuatu,VU,VUT,548,Out-of-school rate for children of primary school age (administrative data),2020,3.91638,Female,,%,,,,Total
+Vanuatu,VU,VUT,548,Out-of-school rate for children of primary school age (administrative data),2020,2.93369,Male,,%,,,,Total
+Vanuatu,VU,VUT,548,Out-of-school rate for children of primary school age (administrative data),2020,3.40727,Total,,%,,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Out-of-school rate for children of primary school age (administrative data),2017,9.60201,Female,,%,,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Out-of-school rate for children of primary school age (administrative data),2017,9.61844,Male,,%,,,,Total
+"Venezuela, Bolivarian Republic of",VE,VEN,862,Out-of-school rate for children of primary school age (administrative data),2017,9.61041,Total,,%,,,,Total
+Yemen,YE,YEM,887,Out-of-school rate for children of primary school age (administrative data),2016,21.12059,Female,,%,,,,Total
+Yemen,YE,YEM,887,Out-of-school rate for children of primary school age (administrative data),2016,10.299,Male,,%,,,,Total
+Yemen,YE,YEM,887,Out-of-school rate for children of primary school age (administrative data),2016,15.60336,Total,,%,,,,Total
+Zambia,ZM,ZMB,894,Out-of-school rate for children of primary school age (administrative data),2017,12.96825,Female,,%,,,,Total
+Zambia,ZM,ZMB,894,Out-of-school rate for children of primary school age (administrative data),2017,16.798,Male,,%,,,,Total
+Zambia,ZM,ZMB,894,Out-of-school rate for children of primary school age (administrative data),2017,14.89646,Total,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Out-of-school rate for children of primary school age (administrative data),2020,12.76421,Female,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Out-of-school rate for children of primary school age (administrative data),2020,14.50443,Male,,%,,,,Total
+Zimbabwe,ZW,ZWE,716,Out-of-school rate for children of primary school age (administrative data),2020,13.63717,Total,,%,,,,Total

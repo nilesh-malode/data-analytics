@@ -1,0 +1,166 @@
+---
+title: "unicef data about Global progress and challenges."
+author: Nilesh Daulat Malode
+format: html
+editor: visual
+execute:
+  warning: false
+  message: false
+  echo: false
+---
+## Introduction
+In this story, we're diving into the heart of Africa through the lens of data, exploring the contours of education, economic choices, and their profound impact on the lives of millions. By unraveling a series of visualizations, from out-of-school rates to military expenditure, inflation, and life expectancy, we'll connect the dots to form a bigger picture of the African landscape. It's a journey through numbers that tells us about challenges and progress, about children's potential and nations' futures. Join us as we decode what these figures mean for the continent and how they echo the global call for accessible education and sustainable development.
+
+**1. World Map Showing Out of School Rate**
+
+```{r world-map-chart}
+
+install.packages("tidyverse")
+install.packages("sf")
+library(tidyverse)
+
+library(ggplot2)
+library(dplyr)
+library(sf)
+
+data_right <- read.csv("/cloud/project/DataFiles/data_right_3.csv")
+unicef_metadata <- read.csv("/cloud/project/DataFiles/unicef_metadata.csv")
+unicef_indicator <- read.csv("/cloud/project/DataFiles/unicef_indicator_1 (1).csv")
+
+
+#World Map
+library(readr)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(ggthemes)
+
+# Filter data for 'Total' sex only
+filtered_data <- unicef_indicator %>%
+  filter(sex == "Total")
+
+world <- ne_countries(scale = "medium", returnclass = "sf")
+
+world_data <- merge(world, filtered_data, by.x = "name", by.y = "country", all.x = TRUE)
+
+ggplot(data = world_data) +
+  geom_sf(aes(fill = obs_value), color = "white") +
+  scale_fill_viridis_c(option = "plasma", name = "Observation Value",
+                       limits = c(min(world_data$obs_value, na.rm = TRUE), 
+                                  max(world_data$obs_value, na.rm = TRUE)),
+                       na.value = "grey50", guide = guide_colourbar(direction = "vertical")) +
+  labs(title = "World Map Showing Out of School Rate",
+  ) +
+  theme_minimal() +
+  theme(legend.position = "bottom")
+```
+
+When you look at this map, it's clear that going to school isn't as easy for everyone. Higher value and bright colours across the globe, especially in Africa, show that too many kids are missing out on school. And we know that's not just about missing classes; it's about missing opportunities, chances to learn, grow, and one day get jobs that can change their lives and communities.
+
+Now, why is it that in African countries the map lights up with those variation in colours? It’s because these places have the highest numbers of kids out of school. It could be because schools are too far away, or maybe there's not enough money to go around for books and uniforms, or worse, sometimes it's just not safe to go to school.
+
+Each country with a brighter colour on this map has its own set of challenges. But that’s not where the story ends. These colours also start a conversation about what's being done to help these kids. From local groups to big organizations, people are getting together to figure out ways to bring those colours down to cooler tones, which means more kids in school.
+
+And that's what the next part of this data story is about – zeroing in on Africa, understanding the unique hurdles in different places, and shedding light on the efforts that are making a real difference. In next part we will explore what other challenges this African nations are facing.
+
+**2. Scatter Plot for Military Expenditure vs GDP per Capita for African Countries**
+```{r Scatter_plot}
+
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+
+african_countries_data <- merge(data_right, unicef_metadata, by = "country") %>%
+  filter(continent == "Africa")  
+
+ggplot(african_countries_data, aes(x = Military_expenditure, y = GDP_per_capita, color = country)) +
+  geom_point() +  
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +  
+  labs(title = "Military Expenditure vs GDP per Capita for African Countries",
+       x = "Military Expenditure (% of GDP)",
+       y = "GDP per Capita (constant 2015 US$)") +
+  theme_minimal() +
+  theme(legend.position = "hide")
+```
+Examining the scatter plot, some countries indeed stand out, suggesting intriguing narratives about their national priorities and economic strategies. For instance, if we look at a country like Algeria, represented by one of the larger dots on the higher end of both GDP per capita and military expenditure as a percentage of GDP, it signals a relatively wealthier nation that also prioritizes military spending. This could be due to regional security concerns or a strategy to leverage its natural resources through a strong military.
+
+On the other end of the spectrum, we have countries like Malawi and Madagascar, which appear towards the lower end of GDP per capita and keep their military spending quite low. This suggests economies that might be more focused on development needs or possibly constrained by limited financial resources.
+
+Then there are those outliers that really catch the eye, countries that despite having a lower GDP per capita, allocate a substantial portion of their budget to the military. These cases are particularly worth exploring, as they might indicate a range of issues from geopolitical tensions to internal security challenges.
+
+It's worth noting that the data doesn't tell us everything. High military spending doesn't necessarily mean a country is neglecting education—there could be a lot of investment in schools that's not captured here. Similarly, low GDP doesn't always equate to poor educational outcomes. Some countries manage to do a lot with a little, focusing on community-based or innovative approaches to get kids learning.
+
+Each country's dot is a starting point for a deeper dive, inviting us to ask why they spend and earn the way they do, and how this impacts their younger generations' education and prospects.
+
+**3. Bar Chart Showing Inflation Rates for African Countries in 2015**
+
+```{r bar_chart, fig.width=12, fig.height=8}
+
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(sf)
+
+# Assuming data_right and unicef_metadata have been loaded correctly.
+
+african_countries <- data_right %>%
+  filter(continent == "Africa") %>%
+  select(country) %>%
+  distinct()
+
+inflation_data <- unicef_metadata %>%
+  filter(year == 2015, country %in% african_countries$country) %>%
+  select(country, Inflation)
+
+inflation_data$Inflation <- as.numeric(as.character(inflation_data$Inflation))
+
+ggplot(inflation_data, aes(x = reorder(country, Inflation), y = Inflation, fill = country)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  theme_minimal() +
+  labs(title = "Inflation Rates for African Countries in 2015",
+       x = "Country",
+       y = "Inflation Rate (%)",
+       caption = "Data source: UNICEF Metadata") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1),
+       legend.position = "none") +
+  coord_flip()
+
+```
+
+Now, this bar chart gives us a glance at inflation rates in African countries back in 2015. Inflation can be a big deal because it affects everything— from the price of bread to how much money families can spend on education. Some countries here show high rates, which can signal an economy that's in trouble or undergoing rapid changes.
+
+Take South Sudan and Malawi, for example, their bars are towering, which means inflation was really high. When everyday stuff gets more expensive, families might have to make tough choices, and unfortunately, sometimes that means pulling kids out of school. On the flip side, we've got countries like Tunisia and Morocco with lower inflation rates, suggesting more stable economies. This kind of financial stability can make it easier for governments to invest in education and for families to keep their kids in school.
+
+So, linking this back to our story, the countries with high inflation might be the same ones struggling to lower their out-of-school rates. The economic strain can put pressure on public services, including education. But it’s not all doom and gloom. Countries that manage to keep inflation in check have more room to breathe and potentially focus on getting more kids into classrooms and keeping them
+
+The scatter plot we saw earlier comes into play here as well. It’s not just about what a country earns or spends on the military; it’s also about how they manage their economy to ensure that even the most basic stuff remains affordable. That’s key to giving every kid the chance they deserve.
+
+**4. Time Series Chart showing Life Expectancy in african Countries in 2015**
+
+```{r time-series, fig.width=15, fig.height=8}
+life_expectancy_data <- unicef_metadata %>%
+  filter(year == 2015, country %in% african_countries$country) %>%
+  select(country, life_expectancy)
+
+
+life_expectancy_data$life_expectancy <- as.numeric(as.character(life_expectancy_data$life_expectancy))
+
+ggplot(life_expectancy_data, aes(x = country, y = life_expectancy, group = 1)) +
+  geom_line() +  
+  geom_point() +  
+  theme_minimal() +
+  labs(title = "Life Expectancy in african Countries in 2015",
+       x = "Country",
+       y = "Life Expectancy (years)",
+       caption = "Data source: UNICEF Metadata") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+```
+
+Looking at this time series graph for life expectancy in African countries, we see quite a bit of variation from one nation to another. It’s like a heartbeat monitor, each peak and trough telling us about the health of a country, in a quite literal sense.
+
+Life expectancy is one of those key indicators that reflect the overall well-being of a population. It’s tied to so many factors—access to healthcare, nutrition, clean water, and, importantly, education. Generally, better education leads to healthier lifestyles and choices, and this often translates to longer lifespans.
+
+Some countries like Algeria, Tunisia, and Mauritius are showing higher life expectancies, suggesting that they’re doing something right in terms of taking care of their citizens. These might be the same places where we saw lower inflation and a decent balance of GDP per capita and military spending. It’s often the case that countries which manage their economies well and invest in social services, including education, see the payoff in their citizens’ longevity.
+
+Then, there are others with lower life expectancies, and these might correlate with those higher out-of-school rates or economic challenges we discussed earlier. It's a reminder that the story of education isn't isolated—it's deeply woven into the fabric of society as a whole.
+
+To tie it all back to our overarching narrative, every data point from school attendance to military spending, from inflation rates to life expectancy, is a piece of a larger puzzle. It's about the potential of human capital—when countries invest in their people, particularly in kids' education, the ripple effects can be seen in a healthier, more stable, and prosperous society. Ensuring that children are in school is one of the most powerful investments in a country's future, echoed in the life expectancy of its people.
